@@ -4,7 +4,7 @@ development:
   host: 127.0.0.1
   port: 5432
   encoding: unicode
-  database: Ticketacular_development
+  database: sample_app_development
   pool: 5
   username: raaid
   password: "159"
@@ -15,7 +15,7 @@ test:
   host: 127.0.0.1
   port: 5432
   encoding: unicode
-  database: Ticketacular_test
+  database: sample_app_test
   pool: 5
   username: raaid
   password: "159"
@@ -26,7 +26,7 @@ production:
   host: 127.0.0.1
   port: 5432
   encoding: unicode
-  database: Ticketacular_production
+  database: sample_app_production
   pool: 5
   username: raaid
   password: "159"
